@@ -1,0 +1,8 @@
+--create table classes (
+--  id varchar(36) NOT NULL,
+--  name varchar(100) DEFAULT NULL,
+--  startTime date(100) DEFAULT NULL,
+--  description varchar(400) DEFAULT NULL,
+--  subscribers varchar(1000) DEFAULT NULL,
+--  PRIMARY KEY (`id`)
+--) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
